@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Holiday Finder",
+    "version": "1.0",
+    "description": "Find holidays using the Calendarific API",
+    "permissions": ["activeTab"],
+    "icons": {
+        "48": "images/icon48.png"
+
+    },
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "48": "images/icon48.png"
+
+      }
+    }
+  }
